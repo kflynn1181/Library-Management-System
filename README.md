@@ -1,4 +1,3 @@
-# test1
-This is a simple repository
-Version 2
-This is a experiment
+# Library Management System
+This application was created by Kevin Flynn (C18502203) and Carl Herdman (C18703995).
+
