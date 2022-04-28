@@ -7,7 +7,7 @@ Two folders are contained in this repository: 'TheLibraryManagementSystemVersion
 
 The first folder contains the work completed by Kevin Flynn, and the second folder contains the work completed by Carl Herdman.
 
-The final versions in each folder are the completed versions of the program ('KevinFlynnLibraryVersion10' and 'CarlHerdmanLibraryVersion5'), with everything fully functional and the requirements completely fulfilled.
+The final versions in each folder are the completed versions of the program ('KevinFlynnLibraryVersion10' and 'CarlHerdmanLibraryVersion5'), with everything fully functional and the requirements completely fulfilled in each.
 
 The final versions in each folder are identical in functionality. The only difference between the two are how they handle data between the MS Access Database and the GUI (DataHandler.java file).
 
